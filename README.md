@@ -19,3 +19,10 @@ This repository contains supporting files, documentation, wiki, issues, and proj
 
 -   For general inquries: [📧Informatics Center Data](mailto:ic-data@jpl.nasa.gov)
 -   To contact the Princiapl Investigator: [👨‍🔬email Dan Crichton](mailto:dan.crichton@jpl.nasa.gov&subject=LabCAS)
+
+
+## Image Credits
+
+This organization makes use of the following images:
+
+- The icon for the [devops team](https://github.com/orgs/jpl-labcas/teams/devops) comes from [Devops icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/devops).
