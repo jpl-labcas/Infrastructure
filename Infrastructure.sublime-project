@@ -1,0 +1,13 @@
+{
+   "folders" : [
+      {
+         "file_exclude_patterns" : [
+            ".DS_Store",
+            "*.sublime-*",
+            "*.log"
+         ],
+         "folder_exclude_patterns" : [],
+         "path" : "."
+      }
+   ]
+}
